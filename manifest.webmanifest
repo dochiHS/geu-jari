@@ -1,0 +1,16 @@
+{
+  "name": "그 자리, 그 계절",
+  "short_name": "그 자리",
+  "description": "청주의 촬영 명소를 촬영 지점 단위로, 사계절과 빛 조건별 사진으로 비교하는 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#31594d",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
